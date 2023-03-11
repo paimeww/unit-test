@@ -1,0 +1,23 @@
+.reviewer{
+    background-color: rgb(215,215,215);
+    width: 40%;
+    margin-bottom: 14px;
+    border-radius: 2px;
+}
+
+.conclusion {
+    background-color: rgb(103,156,215);
+    width: 30%;
+    border-radius: 2px;
+    margin-bottom: 14px;
+}
+
+.heading{
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.reviewLabel{
+    padding-left: 10px;
+  padding-top: 5px;
+}

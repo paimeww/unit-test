@@ -1,0 +1,24 @@
+
+.button {
+  float: right;
+}
+.buttonRow {
+  padding: 0px 7px;
+}
+
+.externalLinkCol {
+  margin-right: 8px;
+  padding: 0px;
+}
+.externalLink {
+  padding-bottom: 2px;
+}
+
+.search {
+  position: absolute;
+  right: 25px;
+}
+
+.rowPagination {
+  margin-top: 30px;
+}

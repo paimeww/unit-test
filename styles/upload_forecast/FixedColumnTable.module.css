@@ -1,0 +1,30 @@
+.container{
+    display:flex;
+  }
+  .scroll{
+    width: 100%;
+    overflow-x: overlay;
+  }
+  .fixed{
+    border-spacing: 1;
+  }
+  .fixed thead tr{
+    background-color:#f3f2f7;
+    /* height: 30px; */
+  }
+  .scrollable thead tr{
+    background-color:#f3f2f7;
+    /* height: 30px; */
+  }
+  
+  .scrollable thead{
+    background-color:#f3f2f7;
+  }
+  .scrollable{
+    width:100px;
+    border-spacing: 0;
+  }
+  .td{
+    min-width:150px !important;
+    border: 1px solid #221111;
+  }

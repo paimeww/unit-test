@@ -1,0 +1,12 @@
+@media only screen and (min-width: 301px) and (max-width: 400px)  {
+    .button{
+        margin-right: 0;
+        padding-left: 0;
+        padding-bottom: 0;
+    }
+
+    .button2{
+     margin-right: 20px;
+    }
+}
+
